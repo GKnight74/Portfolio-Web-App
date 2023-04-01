@@ -11,3 +11,8 @@ with col2:
     content = """ Hi, I am George! I am a beginner Python programmer and Technical Writer. \n
     I am from Texas and am enjoying my coding experience so far."""
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have  built in Python. Feel free to contact me!
+"""
+st.write(content2)
